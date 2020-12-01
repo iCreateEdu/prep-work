@@ -3,7 +3,8 @@ Please take a few minutes to get yourself ready to hit the ground running at the
 
 ## 10 Minutes
 * Signup for a github account at https://github.com/
- ⋅⋅* Click here for a tutorial video.
+
+⋅⋅* Click here for a tutorial video.
 ## 5 Minutes
 * Ensure you have the required course text books at the start of day 1.
 ⋅⋅* JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett

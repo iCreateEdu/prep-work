@@ -6,20 +6,20 @@ Get started as soon as you can! Once your course is published, you’ll be able 
 
 ## Software Development Courses
 
-<p align="center">
-<strong><a href="#link1">Code 102</a></strong>
-|
-<strong><a href="#link2">Code 201</a></strong>
-|
-<strong><a href="#link3">Code 301</a></strong>
-|
-<strong><a href="#link4">Code 401: ASP.NET Core</a></strong>
-|
-<strong><a href="#link5">Code 401: Full-Stack JavaScript</a></strong>
-|
-<strong><a href="#link5">Code 401: Java with SpringMVC and Android</a></strong>
-|
-<strong><a href="#link5">Code 401: Python</a></strong>
-</p>
+* Code 101 has no pre-work
+* [Code 102]
+* [Code 201]
+* [Code 301]
+* [Code 401: ASP.NET Core]
+* [Code 401: Full-Stack JavaScript]
+* [Code 401: Java with SpringMVC and Android]
+* [Code 401: Python]
 
 ----
+
+## Ops and Cybersecurity Courses
+* Ops 101 has no prep work
+* [Ops 102]
+* [Ops 201]
+* [Ops 301]
+* [Ops 401: Cybersecurity Engineering]

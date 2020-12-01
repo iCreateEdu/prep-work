@@ -7,15 +7,15 @@ Get started as soon as you can! Once your course is published, you’ll be able 
 ## Software Development Courses
 
 <p align="center">
-<strong><a href="#link1">Link 1</a></strong>
+<strong><a href="#link1">Code 102</a></strong>
 |
-<strong><a href="#link2">Link 2</a></strong>
+<strong><a href="#link2">Code 201</a></strong>
 |
-<strong><a href="#link3">Link 3</a></strong>
+<strong><a href="#link3">Code 301</a></strong>
 |
-<strong><a href="#link4">Link 4</a></strong>
+<strong><a href="#link4">Code 401</a></strong>
 |
-<strong><a href="#link5">Link 5</a></strong>
+<strong><a href="#link5">Code 501</a></strong>
 </p>
 
 ----

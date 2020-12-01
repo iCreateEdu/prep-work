@@ -13,9 +13,13 @@ Get started as soon as you can! Once your course is published, you’ll be able 
 |
 <strong><a href="#link3">Code 301</a></strong>
 |
-<strong><a href="#link4">Code 401</a></strong>
+<strong><a href="#link4">Code 401: ASP.NET Core</a></strong>
 |
-<strong><a href="#link5">Code 501</a></strong>
+<strong><a href="#link5">Code 401: Full-Stack JavaScript</a></strong>
+|
+<strong><a href="#link5">Code 401: Java with SpringMVC and Android</a></strong>
+|
+<strong><a href="#link5">Code 401: Python</a></strong>
 </p>
 
 ----

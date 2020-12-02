@@ -9,5 +9,5 @@ Get started as soon as you can! Once your course is published, you’ll be able 
 ## Software Development Courses
 
 * Code 101 has no pre-work
-* [Code 102]
-* [Code 201]
+* [Code 102](https://icreateedu.github.io/prep-work/code102)
+* [Code 201](https://icreateedu.github.io/prep-work/code201)

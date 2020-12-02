@@ -1,4 +1,4 @@
-![iCreate Logo][https://raw.githubusercontent.com/iCreateEdu/prep-work/main/iCreate%20Logo%20-%20Colour%20Horizontal.png]
+![iCreate Logo](https://github.com/iCreateEdu/prep-work/blob/main/iCreate%20Logo%20-%20Colour%20Horizontal.png "iCreate Logo")
 
 # Prep Work
 Each course has a moderate amount of pre-work to help you prepare for the upcoming class you are enrolled in. 

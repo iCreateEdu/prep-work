@@ -2,15 +2,15 @@
 Welcome to Code 201! The assignments on this page are mandatory prep work for all students. They are designed to prepare you and your computer for class. Expect to spend several evenings or a day or two on these assignments.
 ## Assignments
 ### Please Complete
-* Prep: Set up your accounts; Confirm Slack and Canvas Setup
-* Prep: Set Up Your Machine
-* Career: Status Report
-* Career: Professional Competency Self-Assessment
-* Career: Update Your Resume
-* Career: Prepare Your LinkedIn
-* Career: Social Media
-* Create a Reading Notes Repo
-* Read: 01 - Introductory HTML and JavaScript
+* [Prep: Set up your accounts; Confirm Slack and Canvas Setup](https://docs.google.com/document/d/128i_s0r7Nu2Szo5m-NhRNfM1w1ixAsA8BGzh_Qy0a7A)
+* [Prep: Set Up Your Machine](https://drive.google.com/a/icreateedu.com/open?id=1hKOhvvhcGHWX81OQOz7UefQq2TmRpyuN5fotCDogk4o)
+* [Career: Status Report](https://codefellows.github.io/common_curriculum/career_coaching/201/status-report)
+* [Career: Professional Competency Self-Assessment](https://docs.google.com/forms/d/e/1FAIpQLSenWXMwGGjzgDsXwCi3hw0eJ4oLNPMbdJIP1OGdULMrpYQn9w/viewform)
+* [Career: Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
+* [Career: Prepare Your LinkedIn](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-linkedin)
+* [Career: Social Media](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-social-media)
+* [Create a Reading Notes Repo](https://codefellows.github.io/code-201-guide/curriculum/class-01/lab-a)
+* [Read: 01 - Introductory HTML and JavaScript](https://codefellows.github.io/common_curriculum/readings_and_reflections/discussion_submission)
 ### Please Read
 * Career: Career Coaching Overview
 ### For Those Who Have Not Completed Code 102

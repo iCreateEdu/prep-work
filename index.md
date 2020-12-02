@@ -1,3 +1,5 @@
+![alt text][iCreate Logo - Colour Horizontal.png]
+
 # Prep Work
 Each course has a moderate amount of pre-work to help you prepare for the upcoming class you are enrolled in. 
 Get started as soon as you can! Once your course is published, you’ll be able to start submitting your work.
